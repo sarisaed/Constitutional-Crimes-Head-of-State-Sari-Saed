@@ -5,7 +5,7 @@
 
 ## للاستشهاد والتوثيق الأكاديمي
 - **المنظومة Mandumah:** ID 1354433 - http://search.mandumah.com/Record/1354433
-- **ORCID:** 0009-0001-5704-4480 - https://orcid.org/0009-0001-5704-4480
+- **ORCID:** 0009-0008-4148-4669 - https:https://orcid.org/0009-0008-4148-4669
 - **Zenodo DOI:** 10.5281/zenodo.23111590 - https://doi.org/10.5281/zenodo.23111590
 - **OSF DOI:** 10.17605/OSF.IO/YSTXU - https://doi.org/10.17605/OSF.IO/YSTXU
 
